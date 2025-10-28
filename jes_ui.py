@@ -508,4 +508,3 @@ class UI:
         
     def show(self):
         pygame.display.flip()
-
